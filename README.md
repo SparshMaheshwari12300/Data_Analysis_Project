@@ -34,3 +34,17 @@ From Week 1 (1st Jan 2023) to Week 52 (24 Dec 2023)
 5. Blue & Silver credit card are contributing to 93% of overall transactions
 6. Overall Activation rate is 57.5%
 7. Overall Delinquent rate is 6.06%
+
+After the addition of Week 53 (31 Dec 2023):-
+1. Overall Revenue is 57M
+2. Total Interest is 8M
+3. Total Tranasction Amount is 47M
+4.  Male customers are contributing more in revenue 31M, female 26M
+
+Technologies Used:-
+1. Power BI: Data visualization and reporting.
+2. SQL: Data storage, processing, and cleaning.
+
+Data collection:-
+
+Data was collected from an online open-source platform. Then it was imported in the SQL server using PostgreSQL. After that the SQL server was connected to the Power BI. From there it was imported to the Power BI dashboards. If the SQL server data updates then the dashboard updates after refreshing the data in Power BI.
