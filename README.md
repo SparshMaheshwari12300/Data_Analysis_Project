@@ -81,24 +81,31 @@ Key Metrics & Insights:-
 Visualizations Included:-
  
 ✅ Attrition by Education
+
 ➡️ Highlights that employees from Life Sciences (37.55%) and Medical (26.58%) backgrounds are more prone to attrition.
 
 ✅ Attrition by Age Group
+
 ➡️ Most attrition occurs in the 26–35 age group, indicating young professionals may be seeking better opportunities or facing dissatisfaction.
 
 ✅ Attrition by Gender
+
 ➡️ Male attrition (150) is significantly higher than female attrition (87).
 
 ✅ Attrition by Salary Range
+
 ➡️ Employees with salaries up to 5k show the highest attrition (163), suggesting compensation could be a major factor.
 
 ✅ Attrition by Job Role
+
 ➡️ Roles like Laboratory Technician, Sales Executive, and Research Scientist show the highest attrition, demanding further role-specific analysis.
 
 ✅ Attrition Trend Line
+
 ➡️ A time-based trend to identify attrition spikes and patterns over time.
 
 ✅ Interactive Filters
+
 ➡️ Department-wise filtering enables focused analysis.
 
 🛠️ Tools & Technologies Used:-
