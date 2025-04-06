@@ -48,3 +48,63 @@ Technologies Used:-
 Data collection:-
 
 Data was collected from an online open-source platform. Then it was imported in the SQL server using PostgreSQL. After that the SQL server was connected to the Power BI. From there it was imported to the Power BI dashboards. If the SQL server data updates then the dashboard updates after refreshing the data in Power BI.
+
+
+
+<hr/> 
+2. HR Analytics Dashboard:-
+
+https://github.com/user-attachments/assets/2bdbbece-6740-48b9-8398-9bbda04e92ed
+
+Project Description:-
+
+This project provides valuable insights into workforce attrition trends using Power BI, helping HR teams and decision-makers understand employee behavior and make data-driven strategic decisions.
+
+Project Overview:-
+
+This interactive dashboard is built using Power BI and powered by HR data. It focuses on analyzing employee attrition—the loss of employees over time—across different categories such as age, department, education, salary range, job role, and gender.
+
+Key Metrics & Insights:-
+
+1. Total Employees: 1,470
+
+2. Total Attrition: 237 employees
+
+3. Attrition Rate: 16.1%
+
+4. Average Age: 37 years
+
+5. Average Salary: 6.5K
+
+6. Average Tenure: 7 years
+
+Visualizations Included:-
+ 
+✅ Attrition by Education
+➡️ Highlights that employees from Life Sciences (37.55%) and Medical (26.58%) backgrounds are more prone to attrition.
+
+✅ Attrition by Age Group
+➡️ Most attrition occurs in the 26–35 age group, indicating young professionals may be seeking better opportunities or facing dissatisfaction.
+
+✅ Attrition by Gender
+➡️ Male attrition (150) is significantly higher than female attrition (87).
+
+✅ Attrition by Salary Range
+➡️ Employees with salaries up to 5k show the highest attrition (163), suggesting compensation could be a major factor.
+
+✅ Attrition by Job Role
+➡️ Roles like Laboratory Technician, Sales Executive, and Research Scientist show the highest attrition, demanding further role-specific analysis.
+
+✅ Attrition Trend Line
+➡️ A time-based trend to identify attrition spikes and patterns over time.
+
+✅ Interactive Filters
+➡️ Department-wise filtering enables focused analysis.
+
+🛠️ Tools & Technologies Used:-
+
+Power BI – For dashboard creation and data visualization
+
+CSV Dataset – Realistic HR data used as the backend
+
+Data Cleaning & Transformation – Performed within Power BI
